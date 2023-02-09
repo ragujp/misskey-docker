@@ -1,5 +1,9 @@
 
 
+``` 
+sudo nano .config/default.yml
 ```
-.config/default.yml
+
+```
+sudo nano .config/docker.env
 ```
